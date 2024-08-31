@@ -1,5 +1,5 @@
 # 💫 About Me:
-Develop
+Backend developer!!
 
 
 # 💻 Tech Stack:
